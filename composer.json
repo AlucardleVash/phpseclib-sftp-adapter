@@ -3,7 +3,7 @@
     "description": "PhpseclibSftp adapter for Gaufrette",
     "type": "metapackage",
     "require": {
-        "knplabs/gaufrette": "~0.11",
+        "knplabs/gaufrette": "~0.3",
         "phpseclib/phpseclib": "^3.0"
     },
     "authors": [
